@@ -6,8 +6,10 @@ This will setup your docker swarm cluster and install [portaier.io](https://port
 
 ### How to use ??
 
-Edit the hosts file and add your master and worker server's IP's
+Edit the hosts file to update your master and worker servers IP's
 
 ```sh
 ansible-playbook -i hosts -u <user-name> --ask-pass docker_swarm.yml --tags "dockerswarm"
 ```
+
+New roles will be added every weekends.
