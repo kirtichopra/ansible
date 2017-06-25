@@ -4,7 +4,7 @@ This ansible code contain only one role right now, that is to initialize docker 
 
 This will setup your docker swarm cluster and install [portaier.io](https://portainer.io/) as a continer
 
-###How to use ??
+### How to use ??
 
 Edit the hosts file and add your master and worker server's IP's
 
