@@ -1,4 +1,4 @@
-# ansible
+# Ansible
 
 This ansible repo contain only one role right now, that is to initialize docker swarm mode and join other node as a worker.
 
