@@ -1,6 +1,6 @@
 # ansible
 
-This ansible code contain only one role right now, that is to initialize docker swarm mode and join other node as a worker.
+This ansible repo contain only one role right now, that is to initialize docker swarm mode and join other node as a worker.
 
 This will setup your docker swarm cluster and install [portaier.io](https://portainer.io/) as a continer
 
